@@ -8,7 +8,7 @@ Crafting digital solutions with modern web technologies
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamlesh.shelar0909@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KamleshShelar09)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917710871429)
 
 </div>
@@ -104,12 +104,12 @@ const kamlesh = {
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=KamleshShelar09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamleshShelar09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </td>
 </tr>
@@ -121,7 +121,7 @@ const kamlesh = {
 ## 🔥 Contribution Streak
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" width="90%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KamleshShelar09&theme=tokyonight&hide_border=true" width="90%" />
 </div>
 
 ---
